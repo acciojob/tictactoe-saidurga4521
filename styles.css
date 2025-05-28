@@ -5,7 +5,7 @@
     gap: 10px;
 }
 
-input {
+#player1,#player2 {
     padding: 8px;
 	
 }
